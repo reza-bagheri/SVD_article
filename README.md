@@ -1,1 +1,1 @@
-The python code for my article "Understanding Singular Value Decomposition and its Application in Data Science - Part 1" in Towards Data Science.
+The python code for my article "Understanding Singular Value Decomposition and its Application in Data Science" in Towards Data Science.
